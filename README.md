@@ -8,6 +8,7 @@ This Fume extractor is modeled and made to have 2 Arctic 80mm fans running simul
 
 It has been modeled in mind with a flexible ventilation pipe to be attached to it, and is to be placed on the table near the place of soldering.
 With 2 80mm fans running together, they may be able to pull from even farther.
+
 ![Screenshot of Fume Extractor model](https://github.com/pyonier1/Double-Fan-Fume-Extractor/blob/main/Fume%20Extractor%20Image.png)
 
 Any and all models are also available on my [Printables](https://www.printables.com/@Pyonier_2685548) page.
@@ -21,6 +22,7 @@ Assembly of the Fume Extractor can be done with either M3 or M4 bolts & nuts, of
     Printing of the parts should not be that much of an issue, and in total should use around 300g of materials (Supports included).
 
     Down below are pictures of the models sliced in [Orca slicer](https://github.com/OrcaSlicer/OrcaSlicer).
+    
     ![Screenshot of Fume Extractor model](https://github.com/pyonier1/Double-Fan-Fume-Extractor/blob/main/Screenshot-slicer-1.png)
 
     ![Screenshot of Fume Extractor model](https://github.com/pyonier1/Double-Fan-Fume-Extractor/blob/main/Screenshot-slicer-2.png)
