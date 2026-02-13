@@ -12,7 +12,12 @@ With 2 80mm fans running together, they may be able to pull from even farther.
 
 Any and all models are also available on my [Printables](https://www.printables.com/@Pyonier_2685548) page.
 
-# 3DPrinting
+# Assembly
+Assembly of the Fume Extractor can be done with either M3 or M4 bolts & nuts, of varying length, with the longest blots being 50mm.
+
+- The Ventilation pipe adapter is optional, since the Fume extractor also has a hole in the main housing for a Active Carbon filter that can be bought online in sheets and cut to size.
+- To connect and power the fans I use a regular power switch and a small neon lamp that can be powered on 12V to signify and show power.
+    # 3DPrinting
 Printing of the parts should not be that much of an issue, and in total should use around 300g of materials (Supports included).
 
 Down below are pictures of the models sliced in [Orca slicer](https://github.com/OrcaSlicer/OrcaSlicer).
@@ -20,8 +25,3 @@ Down below are pictures of the models sliced in [Orca slicer](https://github.com
 
 ![Screenshot of Fume Extractor model](https://github.com/pyonier1/Double-Fan-Fume-Extractor/blob/main/Screenshot-slicer-2.png)
 
-# Assembly
-Assembly of the Fume Extractor can be done with either M3 or M4 bolts & nuts, of varying length, with the longest blots being 50mm.
-
-- The Ventilation pipe adapter is optional, since the Fume extractor also has a hole in the main housing for a Active Carbon filter that can be bought online in sheets and cut to size.
-- To connect and power the fans I use a regular power switch and a small neon lamp that can be powered on 12V to signify and show power.
