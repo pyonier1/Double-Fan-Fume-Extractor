@@ -27,3 +27,10 @@ Assembly of the Fume Extractor can be done with either M3 or M4 bolts & nuts, of
 
     ![Screenshot of Fume Extractor model](https://github.com/pyonier1/Double-Fan-Fume-Extractor/blob/main/Screenshot-slicer-2.png)
 
+    ## Assembly
+    Assembly can be done using any hardware you find fits, I personally used cut up some threaded rod I had on hand, and used that to assemble the multiple parts.
+    For the bottom face that encloses your connections I used small self threading wood screws that I also had lying around.
+    
+    NOTE: Version 1.0 has a problem with the intake geometry being too thin and breaking easily, this is going to be changed in version 1.1
+
+    ![Photograph of the Assembled Fume Extractor model](https://github.com/pyonier1/Double-Fan-Fume-Extractor/blob/main/IMG_4581.jpg)
